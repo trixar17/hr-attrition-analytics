@@ -33,7 +33,7 @@ This portfolio reconstructs the analytics workflow of a strategic HR organizatio
 
 **Audience**: CHRO, HR Executives
 
-![Dashboard](./screenshots/Overview.png)
+![Dashboard](./screenshots/overview.png)
 
 ### Key Insights
 - **16.1%** Overall Attrition Rate (237 voluntary exits out of 1,470 employees).
