@@ -5,6 +5,7 @@
  *               BI (Tableau) analytics mart view.
  * Flow        : Staging (raw) -> Dimension/Fact (modeling) -> Mart (view)
  * DBMS        : PostgreSQL
+ * Author      : Jun Sunghoon
  * ============================================================================ */
 
 
