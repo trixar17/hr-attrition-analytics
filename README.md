@@ -62,7 +62,7 @@ Based on the diagnostic insights, the following data-driven interventions are re
 
 Unlike traditional star schemas, this project utilizes a **denormalized flat file architecture** optimized for rapid BI consumption and extract performance. The dataset (`~1.5K rows, 35 columns`) is logically partitioned into four analytical domains:
 
-```text
+```
 [ WA_Fn-UseC_-HR-Employee-Attrition.csv ]
  │
  ├── 🧑‍🤝‍🧑 Demographics
@@ -84,6 +84,8 @@ Unlike traditional star schemas, this project utilizes a **denormalized flat fil
  │
  └── 🎯 Target Variable
      └── Attrition (Yes / No)
+```
+
 ---
 
 ## 📁 Repository Structure
@@ -100,6 +102,7 @@ HR-ATTRITION-ANALYTICS/
 │   └── hr_attrition_dashboard.twbx              # Packaged Tableau workbook
 └── screenshots/                                 # Dashboard screenshots
     └── overview.png
+```
 
 ---
 
