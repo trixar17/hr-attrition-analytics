@@ -36,7 +36,7 @@ Tableau로 구축된 대시보드는 인력 이탈 현상을 심층 분석하며
 
 대상: CHRO, HR 임원진
 
-![Dashboard](./screenshots/01_Overview.png)
+![Dashboard](./screenshots/overview.png)
 
 ### 핵심 인사이트 (Key Insights)
 - 전체 이탈률 16.1% (전체 1,470명 중 237명 자발적 퇴사).
@@ -86,7 +86,7 @@ Tableau로 구축된 대시보드는 인력 이탈 현상을 심층 분석하며
 │ └── Performance_Rating        # 인사평가 등급 (3-4)
 │
 └── 🎯 타깃 변수 (Target Variable)
-└── Attrition (Yes / No) # 이탈 여부
+  └── Attrition (Yes / No) # 이탈 여부
 ```
 
 
@@ -96,7 +96,8 @@ Tableau로 구축된 대시보드는 인력 이탈 현상을 심층 분석하며
 
 ```
 HR-ATTRITION-ANALYTICS/
-├── README.md                               # 프로젝트 개요 및 실행 가이드
+├── README.md                               # 프로젝트 개요 및 실행 가이드 (ENG)
+├── README_KR.md                               # 프로젝트 개요 및 실행 가이드 (KOR)
 ├── SQL                                     # 데이터 파이프라인 SQL 스크립트
 │ ├── hr_pipeline_en.sql                    # ETL 파이프라인 (영문 주석)
 │ └── hr_pipeline_ko.sql                    # ETL 파이프라인 (국문 주석)
@@ -105,7 +106,7 @@ HR-ATTRITION-ANALYTICS/
 ├── tableau/
 │ └── hr_attrition_dashboard.twbx           # 패키지 Tableau 워크북
 └── screenshots/                            # 대시보드 스크린샷
-└── overview.png
+  └── overview.png
 ```
 
 
