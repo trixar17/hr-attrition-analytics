@@ -99,6 +99,7 @@ HR-ATTRITION-ANALYTICS/
 │   └── hr_pipeline_ko.sql                       # ETL pipeline (Korean comments)
 ├── data/
 │   └── WA_Fn-UseC_-HR-Employee-Attrition.csv    # Source data
+│   └── hr_attrition_mart.csv.xlsx               # Curated mart data (ETL output)
 ├── tableau/
 │   └── hr_attrition_dashboard.twbx              # Packaged Tableau workbook
 └── screenshots/                                 # Dashboard screenshots
