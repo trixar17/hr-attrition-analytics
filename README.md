@@ -18,7 +18,7 @@ This portfolio reconstructs the analytics workflow of a strategic HR organizatio
 | **1. Executive Attrition Overview** | Executive Reporting & Analytics | What is the overall attrition rate and which departments are at risk? |
 | **2. Demographic Deep Dive** | Workforce Diversity Analysis | How do age, gender, and education impact employee turnover? |
 | **3. Engagement Correlation** | Employee Survey Analysis | Which satisfaction metrics strongly correlate with employee exits? |
-| **4. Customer Insights Deep Dive** | Talent Retention Strategy | Are we losing top-tier talent due to uncompetitive compensation? |
+| **4. Talent Insights Deep Dive** | Talent Retention Strategy | Are we losing top-tier talent due to uncompetitive compensation? |
 
 ---
 
