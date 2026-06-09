@@ -97,12 +97,13 @@ Tableau로 구축된 대시보드는 인력 이탈 현상을 심층 분석하며
 ```
 HR-ATTRITION-ANALYTICS/
 ├── README.md                               # 프로젝트 개요 및 실행 가이드 (ENG)
-├── README_KR.md                               # 프로젝트 개요 및 실행 가이드 (KOR)
+├── README_KR.md                            # 프로젝트 개요 및 실행 가이드 (KOR)
 ├── SQL                                     # 데이터 파이프라인 SQL 스크립트
 │ ├── hr_pipeline_en.sql                    # ETL 파이프라인 (영문 주석)
 │ └── hr_pipeline_ko.sql                    # ETL 파이프라인 (국문 주석)
 ├── data/
 │ └── WA_Fn-UseC_-HR-Employee-Attrition.csv # 원본 데이터
+│ └── hr_attrition_mart.csv.xlsx            # 정제·가공 데이터 (마트 추출본)
 ├── tableau/
 │ └── hr_attrition_dashboard.twbx           # 패키지 Tableau 워크북
 └── screenshots/                            # 대시보드 스크린샷
