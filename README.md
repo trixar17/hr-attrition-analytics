@@ -92,7 +92,8 @@ Unlike traditional star schemas, this project utilizes a **denormalized flat fil
 
 ```
 HR-ATTRITION-ANALYTICS/
-├── README.md                                    # Project overview & setup guide
+├── README.md                                    # Project overview & setup guide (ENG)
+├── README_KR.md                                 # Project overview & setup guide (KOR)
 ├── SQL                                          # Data pipeline SQL scripts
 │   ├── hr_pipeline_en.sql                       # ETL pipeline (English comments)
 │   └── hr_pipeline_ko.sql                       # ETL pipeline (Korean comments)
