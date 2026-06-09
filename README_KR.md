@@ -183,7 +183,7 @@ END
 - 📧 trixar17@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/trixar17)
 - 📊 [Tableau Public](https://public.tableau.com/app/profile/sunghoon.jun)
-- 🧾 [Notion](https://www.notion.so/HR-ATTRITION-DASHBOARD-PORTFOLIO-379b35986d7980479fccc5e7019aca1b)
+- 🧾 [Notion](https://app.notion.com/p/HR-Attrition-Analytics-Tableau-Portfolio-EN-37ab35986d79818c8fe8e91d193172a2)
 
 ---
 
